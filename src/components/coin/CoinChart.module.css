@@ -1,0 +1,20 @@
+.chart{
+    background-color: #e3e3e3;
+    width: 90vw;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+.buttons{
+    text-align: center;
+}
+.buttons button{
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid blue;
+}
+.active{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+}

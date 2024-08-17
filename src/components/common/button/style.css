@@ -1,0 +1,10 @@
+
+
+.landingBtn{
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    background-color: blueviolet;
+    padding: 5px;
+    cursor: pointer;
+}

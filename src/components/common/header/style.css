@@ -1,0 +1,32 @@
+
+.header{
+    padding-inline: 20px;
+    display: flex;  
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /* background-color: rgba(7, 7, 7, 0.5) */
+    /* background-color: orange */
+}
+.header-list ul{
+    display: flex;   
+    align-items: center;
+}
+.header-list ul li{
+    margin-inline: 5px;   
+    list-style-type: none;
+    font-weight: 700;
+    cursor:pointer;
+}
+.header-list ul li button{
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    background-color: blueviolet;
+    padding: 5px;
+    cursor: pointer;
+}
+.dark{
+    background-color: black;
+    color: white;
+}

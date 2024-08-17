@@ -1,0 +1,26 @@
+
+.landing-com{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+}
+.left-div .left-div-para{
+    font-size: 80px;
+    margin: 0px;
+    /* height: fit-content; */
+}
+.landing-com .left-div{
+    width: 500px;
+    /* height: fit-content; */
+    padding: 10px;
+}
+.gradient{
+    position: relative;
+    top: -6px;
+    right: 250px;
+    z-index: -1;
+}
+.phone{
+    z-index: 1;
+}

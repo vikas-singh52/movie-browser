@@ -1,0 +1,22 @@
+
+.search{
+    margin: 10px;
+}
+.search form{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    background-color: rgb(42, 34, 34);
+    width: 50vw;
+    margin: auto;
+    padding: 10px;
+    border-radius: 50px;
+}
+form input{
+    background-color:rgb(42, 34, 34);
+    border: none;
+    color: white;
+    width:100%;
+    outline: none;
+    font-size: 20px;
+}
